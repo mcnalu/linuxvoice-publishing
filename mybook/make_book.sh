@@ -1,7 +1,7 @@
 #!/bin/bash
-#Insert beginnning of HTML file and timestamp
+#Insert beginning of HTML file and timestamp
 cat head.html > mybook.html
-echo "<p>Generated: " >> mybook.html
+echo "<p class="centre">Generated: " >> mybook.html
 date  >> mybook.html
 echo "</p>" >> mybook.html
 #Create one big markdown file

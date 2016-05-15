@@ -1,6 +1,5 @@
 body {margin: 3em 3em 3em 3em;}
 h2 {page-break-before: always;}
 h3 {page-break-after: avoid;}
-h1,h2,h3 {page-break-after: avoid;}
 .centre {text-align: center;}
 p {text-indent: 1em;}

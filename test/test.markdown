@@ -4,7 +4,7 @@ A blank line starts a new paragraph. A # character at the start of a new line is
 
 ##An h2 heading
 
-Lists begin after a blank line and each items starts with numbers and a period like this:
+Lists begin after a blank line and items start with numbers and a period like this:
 
 1. First things first
 2. Or you can use * or - at the start of a line for bullets

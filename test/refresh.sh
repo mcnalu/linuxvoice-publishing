@@ -1,3 +1,3 @@
 #!/bin/bash
-markdown_py test -f test
+markdown_py test.markdown -f test.html
 midori -e Reload
